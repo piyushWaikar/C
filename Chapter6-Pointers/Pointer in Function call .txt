@@ -1,0 +1,13 @@
+
+                         POINTERS IN FUNCTION CALL  
+
+            ||                                              ||
+
+       CALL BY VALUE                                  CALL BY REFERENCE 
+
+    we pass values of variables                    We pass address of variable 
+    as argument .                                  as argument .           
+
+
+    imp :
+    Due to Pointer in function we can pass multiple values .
